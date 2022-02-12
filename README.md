@@ -7,7 +7,7 @@ Siempre innovando y aportando con mi conocimiento!
 &nbsp;&nbsp;
 
 
-## :star: Tech Skills:
+## :rocket: Tech Skills:
 
 <p>
   <img height="50px" src = "https://img.shields.io/badge/HTML5-FC490B?style=flat&logo=html5&logoColor=FFFFFF">
